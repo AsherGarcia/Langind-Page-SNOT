@@ -1,0 +1,64 @@
+*
+{
+    font-family: "Arial";
+}
+
+body
+{
+	margin: 0%;
+    background-color: #57a1c4;
+}
+
+a
+{
+    color:#000;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color:#000;
+    text-decoration: none;
+}
+
+#nombreempresa
+{
+    font-size: 25px;
+    margin: 0;
+    padding: 0%;
+    height: 175px;
+    color: #fff;
+    background-color: #000000;
+}
+
+#barrasuperior
+{
+    width: 100%;
+    height: 62px;
+    background-color: #adaaa3;
+}
+
+
+.link
+{
+    font-size: 20px;
+    border-right: solid #000 3px;
+    padding: 20px 89px;
+}
+
+.link1
+{
+    font-size: 20px;
+    padding: 20px 90px;
+}
+
+.logo
+{
+    padding-left: 100px;
+    padding-right: 350px;
+}
+
+.tabla
+{
+    padding-top: 0px;
+}
