@@ -43,13 +43,15 @@ a:visited
 {
     font-size: 20px;
     border-right: solid #000 3px;
-    padding: 15px 89px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .link1
 {
     font-size: 20px;
-    padding: 15x 89px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .logo
@@ -60,5 +62,6 @@ a:visited
 
 .tabla
 {
+    height: 45px;
     padding-top: 0px;
 }
